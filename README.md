@@ -1,4 +1,4 @@
-# Search-Project
+# Yelp-dataset-challenge
 Repository containing the code for search final project
 
 ##Task 1 : Predicting categories of a business from review and tip text
